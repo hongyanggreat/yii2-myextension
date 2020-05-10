@@ -1,5 +1,6 @@
 {
     "name": "hongyanggreat/yii2-myextension",
+    "type" : "yii2-extension",
     "authors": [
         {
             "name": "duongnh",
