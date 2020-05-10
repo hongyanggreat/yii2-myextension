@@ -1,9 +1,14 @@
 {
     "name": "hongyanggreat/yii2-myextension",
     "description": "Parsing and creating url with arguments pretified as well instead of in query string format",
-    "type" : "library",
+    "type" : "yii2-extension",
     "keywords": ["yii2","extension","basicUrlRule"," urlRule"," urlManager"," prettyUrl","enablePrettyUrl"],
     "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/hongyanggreat/yii2-myextension/issues",
+        "source": "https://github.com/hongyanggreat/yii2-myextension"
+    },
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "duongnh",
