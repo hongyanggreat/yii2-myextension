@@ -1,0 +1,16 @@
+{
+    "name": "hongyanggreat/yii2-myextension",
+    "authors": [
+        {
+            "name": "duongnh",
+            "email": "duongnh.nava@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "hongyanggreat\\myextension\\": ""
+        }
+    }
+}
